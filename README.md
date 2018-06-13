@@ -1,4 +1,6 @@
 # fpVokabeltrainer
 Ein Beispielprojekt
 
--Meine erste �nderung
+-Meine erste Änderung
+
+Änderung 2
